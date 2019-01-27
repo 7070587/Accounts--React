@@ -1,0 +1,48 @@
+{
+  "records": [
+    [
+      {
+        "id": "1",
+        "date": "2019-01-24",
+        "title": "title 1",
+        "amount": 9
+      },
+      {
+        "id": "2",
+        "date": "2019-01-23",
+        "title": "title 2",
+        "amount": 81
+      },
+      {
+        "id": "3",
+        "date": "2019-01-23",
+        "title": "title 3",
+        "amount": 3
+      },
+      {
+        "id": "4",
+        "date": "2019-01-21",
+        "title": "title 4",
+        "amount": 35
+      },
+      {
+        "id": "5",
+        "date": "2019-01-20",
+        "title": "title 5",
+        "amount": 20
+      },
+      {
+        "id": "6",
+        "date": "2019-01-20",
+        "title": "title 6",
+        "amount": 91
+      }
+    ],
+    {
+      "id": "7",
+      "date": "2019-01-19",
+      "title": "title 7",
+      "amount": "70"
+    }
+  ]
+}
